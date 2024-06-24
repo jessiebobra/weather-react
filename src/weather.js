@@ -28,10 +28,10 @@ export default function Weather() {
         <footer>
             <p>
                 This project was coded by
-                <a href="https://github.com/jessiebobra" rel="noreferrer" target="_blank">prezi jessica</a> and is
+                <a href="https://github.com/jessiebobra" rel="noreferrer" target="_blank"> prezi jessica </a> and is
                     <br />
-                    <a href="https://github.com/jessiebobra/weather-app-revision" rel="noreferrer" target="_blank"> on GitHub</a> and
-                <a href="https://weather-app-revision-3.onrender.com/#"  rel="noreferrer" target="_blank">hosted on render</a>
+                    <a href="https://github.com/jessiebobra/weather-react" rel="noreferrer" target="_blank"> on GitHub</a> and
+                <a href="https://weather-react-8grh.onrender.com"  rel="noreferrer" target="_blank"> hosted on render</a>
             </p>
         </footer>
         </div>  
